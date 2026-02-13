@@ -39,7 +39,7 @@
   "homepage": "https://github.com/Hubertformin/electron-pos-printer#readme",
   "dependencies": {
     "jsbarcode": "^3.11.5",
-    "qrcode": "^1.5.1"
+    "qrcode": "^1.5.4"
   },
   "devDependencies": {
     "@electron/remote": "^2.0.8",
